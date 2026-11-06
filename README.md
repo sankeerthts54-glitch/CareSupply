@@ -2,7 +2,10 @@
 
 A full-stack community care supply exchange platform that helps verified organisations donate, discover, request, and safely exchange eligible care supplies.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsankeerthts54-glitch%2FCareSupply&env=MONGO_URI,JWT_SECRET,JWT_EXPIRES_IN,NODE_ENV&envDescription=Enter%20your%20MongoDB%20connection%20string%20and%20JWT%20secret&project-name=caresupply-share&repository-name=caresupply-share)
+
 ---
+
 
 ## Tech Stack
 
